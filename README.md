@@ -3,7 +3,7 @@
 **Pierpaolo Morgante, Coty Deluca, Tegla E. Jones, Gregory J. Aldrich, Norito Takenaka, and  Roberto Peverati**
 
 
-This GitHub repository collects all the data for the article just accepted in *Catalysis*. It includes:
+This GitHub repository collects all the data for the article just accepted in *Catalysts*. It includes:
 
 * a **Geometries** folder, with the geometries for all the species studied;
 
