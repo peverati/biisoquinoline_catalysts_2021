@@ -12,5 +12,5 @@ This GitHub repository collects all the data for the article just accepted in *C
 * a **pdf file** titled "supporting_material_Catalysis_2.pdf," which shows details for the DFT study, pictures of all the transition structures optimized in this work, and additional references.
 
 
-**The link to the published article will be provided soon. Please check back later.**
+You can read the full text for this article following this [link](https://www.mdpi.com/2073-4344/11/12/1487/htm).
 
